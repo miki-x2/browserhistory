@@ -1,0 +1,15 @@
+body {
+  font-family: 'Open Sans', "Times New Roman";
+  color: darkblue;
+  margin: 10px 50px 10px 50px;
+  background: ivory;
+}
+
+h1, h2, h3 {
+  font-family: 'Oswald', "Times New Roman";
+}
+
+img{
+  float: left;
+  margin-right: 10px;
+}
