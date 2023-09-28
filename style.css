@@ -14,35 +14,6 @@ img{
   margin-right: 10px;
 }
 
-.left {
-  float: left;
-  width: 300px;
-  padding: 1em;
-}
 
-.right {
-  float: right;
-  width: 300px;
-  padding: 1em;
-}
 
-.center {
-  margin-right: 300px;
-  margin-left: 300px;
-  padding: 1em;
-}
 
-#contents ul{
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-}
-
-#contents li{
-  display: inline;
-}
-
-#contents a{
-  margin-left: 75px;
-  margin-right: 75px;
-}
