@@ -1,48 +1,17 @@
+a.nav-link{
+  color: white;
+}
+
 body {
   font-family: 'Open Sans', "Times New Roman";
   color: darkblue;
-  margin: 10px 50px 10px 50px;
-  background: ivory;
 }
 
-h1, h2, h3 {
+h1, h2{
+  color: darkblue;
   font-family: 'Oswald', "Times New Roman";
 }
 
-img{
-  float: left;
-  margin-right: 10px;
-}
 
-.left {
-  float: left;
-  width: 300px;
-  padding: 1em;
-}
 
-.right {
-  float: right;
-  width: 300px;
-  padding: 1em;
-}
 
-.center {
-  margin-right: 300px;
-  margin-left: 300px;
-  padding: 1em;
-}
-
-#contents ul{
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-}
-
-#contents li{
-  display: inline;
-}
-
-#contents a{
-  margin-left: 75px;
-  margin-right: 75px;
-}
